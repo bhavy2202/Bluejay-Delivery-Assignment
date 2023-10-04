@@ -23,12 +23,12 @@ git clone <repository_url>
 - The script will prompt you to enter the path to the CSV file.
 
 3. **Output:**
-- The script will generate an `output.txt` file containing the categorized employee names.
+- The script will generate an output containing the categorized employee names.
 
 ## Files in the Repository
 
-- `analyze_work.py`: Python script for analyzing employee work data.
-- `employee_work_data.csv`: Sample CSV file containing employee work data.
+- `python-scrpit.py`: Python script for analyzing employee work data.
+- `Assignment_Timecard.xlsx - Sheet1.csv`: Sample CSV file containing employee work data.
 - `output.txt`: Output file containing categorized employee names.
 
 ## Dependencies
