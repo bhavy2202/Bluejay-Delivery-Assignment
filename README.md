@@ -11,6 +11,9 @@ This Python script analyzes employee work data from a CSV file and categorizes e
 ## How to Use
 
 1. **Clone the Repository:**
+
+git clone <repository_url>
+
 2. **Run the Script:**
 - Make sure you have Python installed on your system.
 - Navigate to the repository directory and run the script:
